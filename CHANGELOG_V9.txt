@@ -1,0 +1,9 @@
+ZERO ECLIPSE V9
+
+AI and movement overhaul foundation.
+
+Added:
+- AI state framework
+- Companion behavior foundation
+- Enemy behavior foundation
+- Character movement smoothing
