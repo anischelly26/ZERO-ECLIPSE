@@ -1,0 +1,2 @@
+package com.zeroeclipse.v9ai;
+public enum AIState { IDLE, FOLLOW, FORMATION, INVESTIGATE, SEARCH, COMBAT, REPOSITION, RETREAT, RECOVER }
